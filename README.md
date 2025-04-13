@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m interested in Backend Development 
-- 📫 How to reach me: [Email Me](mailto:victoekpe11@gmail.com?subject=Lets%20Collaborate) 
+- 📫 How to reach me: [Email Me](mailto:victorekpe11@gmail.com?subject=Lets%20Collaborate) 
